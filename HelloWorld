@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+//main method
+int main()
+{
+//this line prints hello world to the console
+cout<<"Hello World!";
+}
